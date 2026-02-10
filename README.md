@@ -13,3 +13,4 @@
 | CCleaner Local Privilege Escalation Vulnerability on macOS | Quarkslab |
 | Auditing Moodle's core hunting for logical bugs | Quarkslab |
 | ControlPlane Local Privilege Escalation Vulnerability on macOS | Quarkslab |
+| Intego X9 When your macOS antivirus becomes your enemy.pdf | Quarkslab |
