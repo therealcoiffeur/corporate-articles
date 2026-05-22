@@ -15,6 +15,5 @@
 | ControlPlane Local Privilege Escalation Vulnerability on macOS           | Quarkslab |
 | Intego X9: When your macOS antivirus becomes your enemy                  | Quarkslab |
 | Intego X9: Why your macOS antivirus should not trust PIDs                | Quarkslab |
-| Intego X9: Why your macOS antivirus should not trust PIDs                | Quarkslab |
 | Intego X9: Never trust my updates                                        | Quarkslab |
 | How OLTs may have exposed entire ISP networks                            | Quarkslab |
