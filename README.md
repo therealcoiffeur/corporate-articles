@@ -17,3 +17,4 @@
 | Intego X9: Why your macOS antivirus should not trust PIDs                | Quarkslab |
 | Intego X9: Never trust my updates                                        | Quarkslab |
 | How OLTs may have exposed entire ISP networks                            | Quarkslab |
+| Chamilo LMS... It's raining 0days, hallelujah, it's raining 0days        | Quarkslab |
